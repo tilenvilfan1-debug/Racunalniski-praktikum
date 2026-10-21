@@ -6,20 +6,23 @@
 <!-- 2. nivojski razdelek -->
 ## Bližnjice na tipkovnici
 
-* Kopiraj označeno v odložišče: Ctrl+C (**C**opy)
-* Izreži označeno v odložišče: Ctrl+X
-* Prilepi vsebino odložišča: Ctrl+V
-* Kopiraj vrstico gor&dol: Shift+Alt + ↓ / ↑
-* Izbriši vrstico: Ctrl+Shift+K 
-* Pojdi na konec dokumenta: Ctrl+End 
-
+- *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
+- *Izreži* označeno v odložišče: Ctrl+X
+- *Prilepi* vsebino odložišča: Ctrl+V
+- VSCode paleta ukazov: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
+- Skok na začetek vrstice: <kbd>Home</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>←</kbd>)
+- Premik za eno besedo naprej: <kbd>Ctrl</kbd>+<kbd>→</kbd> (🍎 <kbd>Option</kbd>+<kbd>→</kbd>)
+- Brisanje vrstice: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>)
+- Pretvorba označenega besedila v velike črke: ukaz _Transform to Uppercase_ v paleti ukazov
 <!-- 2. nivojski razdelek -->
 ## Koda
 
-Včasih pride prav značka kbd za tipke. Značko uporabimo takole:
+Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 
 <!-- začetek bloka kode -->
-``<kbd>Ctrl</kbd>``
+```
+<kbd>Ctrl</kbd>
+```
 <!-- konec bloka kode -->
 
 <!-- 2. nivojski razdelek -->
